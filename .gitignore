@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+frontend/dist/
+.DS_Store
+backend/medical_assistant.db
+backend/*_backup.py
